@@ -9,6 +9,7 @@ yarn add react-router-dom
 Execute a aplicação:
 ```
 yarn start
+para iniciar
 ```
 
 ### Deploy da aplicação com Github Pages: :octocat:: 

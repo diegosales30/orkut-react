@@ -11,6 +11,7 @@ Execute a aplicação:
 yarn start
 add yarn
 ```
+..
 
 ### Deploy da aplicação com Github Pages: :octocat:: 
 [Orkut-page](https://orkut-react-taupe.vercel.app/)
